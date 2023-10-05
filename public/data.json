@@ -1,7 +1,7 @@
 [
     {
       "id": "651ec688795f25ac487d5349",
-      "balance": "$1,129.94",
+      "price": 11,
       "picture": "http://placehold.it/32x32",
       "age": 37,
       "eyeColor": "blue",
@@ -18,7 +18,7 @@
     },
     {
       "id": "651ec6881e2a93f0fd470d83",
-      "balance": "$3,988.45",
+      "price": 250,
       "picture": "http://placehold.it/32x32",
       "age": 27,
       "eyeColor": "green",
@@ -35,7 +35,7 @@
     },
     {
       "id": "651ec688391bc6e101057ad8",
-      "balance": "$1,427.89",
+      "price": 300,
       "picture": "http://placehold.it/32x32",
       "age": 24,
       "eyeColor": "brown",
@@ -52,7 +52,7 @@
     },
     {
       "id": "651ec688b8925d3045e5b5e8",
-      "balance": "$1,721.89",
+      "price": 700,
       "picture": "http://placehold.it/32x32",
       "age": 31,
       "eyeColor": "brown",
@@ -69,7 +69,7 @@
     },
     {
       "id": "651ec6882d10fb52d61126a0",
-      "balance": "$1,449.94",
+      "price": 200,
       "picture": "http://placehold.it/32x32",
       "age": 30,
       "eyeColor": "blue",
